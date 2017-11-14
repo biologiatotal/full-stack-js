@@ -2,15 +2,14 @@
 
 [![Biologia Total](https://www.biologiatotal.com.br/pages/biologiatotal/template/home/assets/images/logo-colorido.png)](https://www.biologiatotal.com.br/)
 
-**Desenvolver uma aplicação simples utilizando [Node.js](https://nodejs.org) como back-end e [Vue.js](https://vuejs.org/) ou  [Angular 2 (ou superior)](https://angular.io/) no front/interface, além de todas as outras extensões, aplicações, bibliotecas e ferramentas que desejar utilizar.**
+**Desenvolver uma aplicação web utilizando [Node.js](https://nodejs.org) e [Vue.js](https://vuejs.org/) ou [Angular 2 (ou superior)](https://angular.io/), além de todas as outras extensões, aplicações, bibliotecas e ferramentas que desejar utilizar.**
 O objetivo desta avaliação é medir o nível de conhecimento do candidato nas áreas em que a vaga será exigida.
 
 # Escopo
-Deve-se criar uma aplicação para resolver o problema descrito abaixo, utilizando Node.JS. Fique a vontade para explorar todo o seu conhecimento em automação de tarefas, CSS e Javascript com Vue.JS, Angular ou qualquer outra ferramenta, além de persistir os dados em um banco de dados.
+Deve-se criar uma API em Node.JS que retorne dados para uma Single Page Application (SPA), resolvendo o problema descrito abaixo. Fique a vontade para explorar todo o seu conhecimento em automação de tarefas, CSS e Javascript com Vue.JS, Angular ou qualquer outra ferramenta, além de persistir os dados em um banco de dados MongoDB.
 
 # Cenário fictício
 Prof. Jubilut está lançando uma nova plataforma de ensino online. Nesta plataforma, desejamos realizar a matrícula de alunos em cursos através de um painel administrativo. 
-
 
 # Requisitos
 - Um aluno pode ser matriculado em mais de um curso
@@ -47,7 +46,6 @@ Criar um gerenciamento aonde seja possível Criar, Listar, Editar e Visualizar u
 # Plus ++ 
 - Cubra pelo menos 3 recursos de seu código com testes unitários.
 - Utilize as melhores práticas da Orientação a Objetos.
-- Se utilizar MongoDB ganha muitos pontos.
 - Se um dia, neste cenário fictício, pretendêssemos conectar um aplicativo mobile nesta nova plataforma? Que tal pensar em API? 
 
 
