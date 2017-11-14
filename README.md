@@ -6,7 +6,7 @@
 O objetivo desta avaliação é medir o nível de conhecimento do candidato nas áreas em que a vaga será exigida.
 
 # Escopo
-Deve-se criar uma API em Node.JS que retorne dados para uma Single Page Application (SPA), resolvendo o problema descrito abaixo. Fique a vontade para explorar todo o seu conhecimento em automação de tarefas, CSS e Javascript com Vue.JS, Angular ou qualquer outra ferramenta, além de persistir os dados em um banco de dados MongoDB.
+Deve-se criar uma API em Node.JS que retorne dados para uma Single Page Application (SPA) em Vue.js ou Angular 2 (ou superior), resolvendo o problema descrito abaixo. Fique a vontade para explorar todo o seu conhecimento em automação de tarefas, CSS e Javascript com Vue.JS, Angular, Express ou qualquer outra ferramenta, além de persistir os dados em um banco de dados MongoDB.
 
 # Cenário fictício
 Prof. Jubilut está lançando uma nova plataforma de ensino online. Nesta plataforma, desejamos realizar a matrícula de alunos em cursos através de um painel administrativo. 
@@ -40,14 +40,13 @@ Criar um gerenciamento aonde seja possível Criar, Listar, Editar e Visualizar u
 - Faça fork desse repositório envie-nos um Pull Request quando estiver pronto.
 - Deve ser utilizado NodeJS
 - Utilizar Vue.js ou Angular (versão 2 ou superior)
+- Deve ser utilizado MongoDB 
 - Deve ser utilizado algum gerenciador de dependências da aplicação (NPM). 
 - Crie um README com orientações para a instalação.
 
 # Plus ++ 
-- Cubra pelo menos 3 recursos de seu código com testes unitários.
-- Utilize as melhores práticas da Orientação a Objetos.
-- Se um dia, neste cenário fictício, pretendêssemos conectar um aplicativo mobile nesta nova plataforma? Que tal pensar em API? 
-
+- Cubra pelo menos 1 recurso de seu código com testes unitários.
+- Utilize as melhores práticas da Orientação a Objetos. 
 
 # Observações:
 
